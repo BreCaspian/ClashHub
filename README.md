@@ -1,4 +1,4 @@
-# ClashHub — Multi-Platform Client Archive  
+# ⭐ ClashHub — Multi-Platform Client Archive  
 
 ![Clash.jpg](./Clash.jpg)
 
@@ -109,11 +109,6 @@
 2. 所有软件版权归原作者所有，如有侵权请提交 Issues，将及时处理。  
 3. 本仓库仅用于 **学术查阅、科研教学与技术学习**。  
 4. 禁止用于违法用途，使用风险由用户自行承担，与维护者无关。
-
 ---
-
-## ⭐ Star & Share
-
-如果这个项目对你有帮助，欢迎点一个 ⭐ Star！你的支持会让项目持续更新。
 
 
